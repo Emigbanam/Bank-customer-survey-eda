@@ -1,6 +1,6 @@
-# German Bank Customer Survey – Exploratory Data Analysis
+# Bank Customer Survey – Exploratory Data Analysis
 
-This project provides a step-by-step Exploratory Data Analysis (EDA) of a German bank customer survey dataset.  
+This project provides a step-by-step Exploratory Data Analysis (EDA) of a bank customer survey dataset.  
 The dataset includes demographic information and responses to multiple survey questions grouped into research topics such as service quality, performance, reputation, satisfaction, and loyalty.
 
 ## Objectives
